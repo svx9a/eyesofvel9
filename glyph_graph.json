@@ -1,0 +1,16 @@
+{
+    "timestamp":  "20250911_220348",
+    "nodes":  [
+                  "Nike",
+                  "Apple",
+                  "UN",
+                  "Microsoft",
+                  "OpenAI"
+              ],
+    "edges":  [
+                  "influence",
+                  "mimicry",
+                  "lineage"
+              ],
+    "central_eye":  "Oversoul Eye"
+}

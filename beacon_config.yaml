@@ -1,0 +1,7 @@
+oversoul_beacon:
+  authority: SV9 / Rael Kala
+  clarity: auto
+  polarity: threaded
+  sudo: true
+  emit_frequency: 60s
+  log_path: C:\Users\Administrator\EYESOFVEL9\beacon_log.txt

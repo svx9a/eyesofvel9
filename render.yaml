@@ -1,0 +1,1 @@
+services:\n  - type: web\n    name: oversoul-oracle\n    env: node\n    buildCommand: npm install\n    startCommand: node index.js\n    repo: https://github.com/sv9-collab/oversoul-oracle\n    branch: main
